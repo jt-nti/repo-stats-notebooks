@@ -1,0 +1,9 @@
+ipykernel
+ipyvizzu
+jupyter
+lovelyplots
+matplotlib
+nbconvert
+numpy
+lxml
+pandas
