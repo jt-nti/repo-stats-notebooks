@@ -1,3 +1,4 @@
+ipython
 ipykernel
 ipyvizzu
 jupyter
@@ -7,3 +8,4 @@ nbconvert
 numpy
 lxml
 pandas
+python-dateutil
